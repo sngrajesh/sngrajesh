@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sngrajesh" alt="sngrajesh" /></a> </p>
 
 - 📫 Portfolio **commitz.vercel.app**
-- 
+  
 - 📫 How to reach me **rajeshksingh@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1881lAw6Jgo0pmeNX8_icWTZk279pFoQW/view?usp=sharing](https://drive.google.com/file/d/1881lAw6Jgo0pmeNX8_icWTZk279pFoQW/view?usp=sharing)

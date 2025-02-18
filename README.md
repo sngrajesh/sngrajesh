@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajesh Singh</h1>
-<h3 align="center">AI Software Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sngrajesh&label=Profile%20views&color=0e75b6&style=flat" alt="sngrajesh" /> </p>
 
@@ -26,7 +26,8 @@
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=3776AB">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus&svgfill=659AD2">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=5382A1">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=apache spark&svgfill=E25A1C">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Apache&svgfill=E25A1C">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ApacheSpark&svgfill=E25A1C">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=scikit-learn&svgfill=F7931E">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tensorflow&svgfill=FF6F00">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=pytorch&svgfill=EE4C2C">
@@ -36,11 +37,11 @@
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=2496ED">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Kubernetes&svgfill=326CE5">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jenkins&svgfill=D24939">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Apache Kafka&svgfill=ffffff">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ApacheKafka&svgfill=ffffff">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=gitlab&svgfill=FC6D26">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Github Actions&svgfill=2088FF">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=GithubActions&svgfill=2088FF">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Jupyter&svgfill=F37626">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux&svgfill=FCC624">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8DD6F9">
